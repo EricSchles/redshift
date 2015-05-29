@@ -115,13 +115,10 @@ but currently it feels strange to have a "source" release that users wouldn't be
 LICENSE
 ---------------
 
-I'm still working out how to specify the license, but my intention at the moment is:
+Redshift is only available for non-commercial use, and is no longer maintained.
 
-- FOSS for non-commercial use
-- Modifications should be distributed
-- Commercial use licenses available on request. These will be granted pretty much automatically to any company that isn't yet profitable, or really anyone who isn't big.
-- RESTful parser APIs to make it easier to start using the parser.
-    
+For my actively developed, commercially-focussed NLP library, see http://spacy.io
+
 ::
 
     Copyright (C) 2014 Matthew Honnibal
